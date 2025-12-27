@@ -1,0 +1,16 @@
+consultation_id,pharmacy_name,consultation_date,consultation_room_type,privacy_level_score
+1,Walmart Pharmacy North,2024-07-05,private,8
+2,Walmart Pharmacy South,2024-07-07,semi-private,6
+3,Walmart Pharmacy East,2024-07-10,open,5
+4,Walmart Pharmacy West,2024-07-12,private,9
+5,Walmart Pharmacy Central,2024-07-14,group,7
+6,Walmart Pharmacy North,2024-07-20,open,6
+7,Walmart Pharmacy South,2024-07-21,private,8
+8,Walmart Pharmacy East,2024-07-22,semi-private,7
+9,Walmart Pharmacy West,2024-07-23,group,4
+10,Walmart Pharmacy Central,2024-07-24,soundproof,9
+11,Walmart Pharmacy Central,2024-07-25,private,8
+12,Walmart Pharmacy North,2024-07-29,semi-private,7
+13,Walmart Pharmacy South,2024-08-05,open,5
+14,Walmart Pharmacy East,2024-08-06,soundproof,10
+15,Walmart Pharmacy West,2024-08-07,semi-private,7

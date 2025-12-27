@@ -1,0 +1,16 @@
+choice_id,viewer_id,choice_description,choice_date
+1,101,Go left,2024-10-06
+2,102,Take the stairs,2024-10-16
+3,103,Enter the cave,2024-11-04
+4,104,Climb the mountain,2024-11-21
+5,105,Explore the forest,2024-12-08
+6,106,Swim across the river,2024-10-23
+7,107,Light the torch,2024-11-12
+8,108,Take the bridge,2024-12-26
+9,109,Open the door,2024-10-31
+10,110,Follow the trail,2024-11-18
+11,102,Take the elevator,2024-12-06
+12,103,Run away,2024-10-10
+13,104,Hide in the bushes,2024-11-24
+14,105,Climb the tree,2024-12-20
+15,106,Light a fire,2024-10-24

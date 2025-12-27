@@ -1,0 +1,16 @@
+interaction_id,viewer_id,content_id,interaction_type,interaction_date
+1,101,1,pause,2024-10-05
+2,102,2,choice,2024-10-15
+3,103,3,pause,2024-11-03
+4,104,4,choice,2024-11-20
+5,105,5,pause,2024-12-07
+6,101,1,choice,2024-12-18
+7,106,2,pause,2024-10-22
+8,107,3,choice,2024-11-11
+9,108,4,pause,2024-12-25
+10,109,5,choice,2024-10-30
+11,110,1,pause,2024-11-17
+12,102,2,choice,2024-12-05
+13,103,3,pause,2024-10-09
+14,104,4,choice,2024-11-23
+15,105,5,pause,2024-12-19

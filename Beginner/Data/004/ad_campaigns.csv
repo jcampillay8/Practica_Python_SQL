@@ -1,0 +1,12 @@
+campaign_id,campaign_name,start_date,conversions,revenue,ad_type
+1,Spring Sale,2024-04-01,150,1200.5,Search
+2,Summer Launch,2024-05-05,130,950,Display
+3,April Discounts,2024-04-10,200,1800.75,Video
+4,May Madness,2024-05-15,110,500,Search
+5,June Offers,2024-06-01,0,0,Display
+6,April Promo,2024-04-20,180,1500,Shopping
+7,May Deals,2024-05-10,105,400,Video
+8,June Bonanza,2024-06-10,0,0,Search
+9,April Flash Sale,2024-04-15,160,1300,Display
+10,May Extravaganza,2024-05-20,115,600,Shopping
+11,June Surprise,2024-06-15,0,0,Video

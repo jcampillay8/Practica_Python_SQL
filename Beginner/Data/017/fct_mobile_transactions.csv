@@ -1,0 +1,17 @@
+transaction_id,user_id,transaction_date,login_method,transaction_status
+1001,1,2024-07-01,One Touch,Success
+1002,2,2024-07-02,Standard,Success
+1003,3,2024-07-03,one touch,Success
+1004,1,2024-07-04,STANDARD,Failed
+1005,4,2024-07-05,One Touch,Success
+1006,5,2024-07-06,Standard,Success
+1007,3,2024-07-07,one touch,Success
+1008,2,2024-07-08,One Touch,Success
+1009,6,2024-07-09,Standard,Success
+1010,7,2024-07-10,One Touch,Success
+1011,5,2024-07-11,Standard,Failed
+1012,8,2024-07-12,standard,Success
+1013,9,2024-07-15,One Touch,Success
+1014,10,2024-07-20,one touch,Failed
+1015,11,2024-07-25,One Touch,Success
+1016,12,2024-06-30,One Touch,Success
