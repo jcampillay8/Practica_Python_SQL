@@ -1,0 +1,14 @@
+business_id,monthly_revenue,revenue_variability,business_size
+1,10000,0.05,small
+2,15000,0.08,small
+3,8000,0.25,small
+4,20000,0.3,small
+5,12000,0.22,small
+6,9000,0.07,small
+7,11000,0.55,small
+8,13000,0.4,small
+9,14000,0.06,small
+10,16000,0.5,small
+11,30000,0.1,medium
+12,50000,0.12,large
+13,12500,0.15,small

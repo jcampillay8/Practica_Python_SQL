@@ -1,0 +1,16 @@
+subscription_id,customer_id,pricing_tier,start_date,end_date,renewal_status
+1,101,Basic,2024-07-05,2024-08-05,Not Renewed
+2,102,Premium,2024-07-10,2024-08-10,Renewed
+3,103,Enterprise,2024-07-15,2024-08-15,Renewed
+4,101,Basic,2024-08-06,2024-09-06,Renewed
+5,104,Basic,2024-08-10,2024-09-10,Not Renewed
+6,105,Premium,2024-08-12,2024-09-12,Not Renewed
+7,102,Premium,2024-09-01,2024-10-01,Renewed
+8,106,Enterprise,2024-09-05,2024-10-05,Not Renewed
+9,107,Premium,2024-07-20,2024-08-20,Not Renewed
+10,108,Basic,2024-07-22,2024-08-22,Renewed
+11,109,Enterprise,2024-08-15,2024-09-15,Renewed
+12,110,Premium,2024-09-10,2024-10-10,Not Renewed
+13,111,Basic,2024-09-15,2024-10-15,Not Renewed
+14,103,Enterprise,2024-09-20,2024-10-20,Renewed
+15,112,Premium,2024-08-25,2024-09-25,Renewed
