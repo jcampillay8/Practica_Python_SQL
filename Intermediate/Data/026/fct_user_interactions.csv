@@ -1,0 +1,31 @@
+interaction_id,user_id,content_type,interaction_duration,interaction_date,category_id
+1,1,live sports commentary,130,2024-04-05,1
+2,1,live sports commentary,138,2024-04-12,2
+3,2,live sports commentary,140,2024-04-15,3
+4,3,live sports commentary,136,2024-04-18,4
+5,4,live sports commentary,136,2024-04-28,5
+6,5,live sports commentary,150,2024-05-02,6
+7,6,highlights,80,2024-05-03,7
+8,7,live sports commentary,120,2024-05-04,8
+9,8,highlights,90,2024-05-05,9
+10,9,live sports commentary,130,2024-05-06,10
+11,10,live sports commentary,140,2024-05-07,1
+12,11,highlights,70,2024-05-08,2
+13,12,live sports commentary,155,2024-05-09,3
+14,13,highlights,85,2024-05-10,4
+15,14,live sports commentary,145,2024-05-11,5
+16,15,highlights,95,2024-05-12,6
+17,16,live sports commentary,125,2024-05-13,7
+18,17,highlights,100,2024-05-14,8
+19,18,live sports commentary,135,2024-05-15,9
+20,19,highlights,110,2024-05-16,10
+21,20,live sports commentary,132,2024-05-17,1
+22,21,highlights,88,2024-05-18,2
+23,22,live sports commentary,142,2024-05-19,3
+24,23,highlights,77,2024-05-20,4
+25,24,live sports commentary,138,2024-05-21,5
+26,25,highlights,83,2024-05-22,6
+27,26,live sports commentary,147,2024-05-23,7
+28,27,highlights,92,2024-05-24,8
+29,28,live sports commentary,136,2024-05-25,9
+30,29,highlights,99,2024-05-26,10

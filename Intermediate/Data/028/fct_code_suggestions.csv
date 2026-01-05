@@ -1,0 +1,16 @@
+suggestion_id,developer_id,programming_language,complexity_level,coding_speed_improvement,error_reduction_percentage,suggestion_date
+1,101,Python,Easy,12.5,18,2024-04-03
+2,102,Python,Medium,10,17.5,2024-04-05
+3,103,Python,Hard,9,15,2024-04-07
+4,104,JavaScript,Easy,14,13,2024-04-02
+5,101,JavaScript,Medium,16.5,14.5,2024-04-08
+6,105,JavaScript,Hard,15,12,2024-04-12
+7,106,Java,Easy,11,16,2024-04-03
+8,107,Java,Medium,13,20,2024-04-06
+9,108,Java,Hard,12,19.5,2024-04-10
+10,109,C++,Easy,8,14,2024-04-04
+11,110,C++,Medium,7.5,11,2024-04-09
+12,105,C++,Hard,9.5,16,2024-04-11
+13,111,Python,Medium,15,19,2024-04-15
+14,112,JavaScript,Easy,18,16,2024-04-16
+15,113,Java,Medium,17,20,2024-04-18
