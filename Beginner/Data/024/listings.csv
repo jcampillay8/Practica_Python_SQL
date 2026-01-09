@@ -1,0 +1,11 @@
+id,name,neighborhood,rating,price,is_superhost
+1,Cozy Downtown Loft,Downtown,4.9,150,true
+2,Beachfront Paradise,Venice Beach,4.7,280,true
+3,Budget Studio,East LA,4.2,65,false
+4,Luxury Penthouse,Beverly Hills,4.8,520,true
+5,Charming Bungalow,Silver Lake,4.6,175,true
+6,Modern Apartment,Santa Monica,4.3,195,false
+7,Historic Guest House,Pasadena,4.9,140,true
+8,Quiet Retreat,Glendale,4.1,85,false
+9,Artsy Hideaway,Arts District,4.5,125,false
+10,Family-Friendly Home,Burbank,4.7,210,true

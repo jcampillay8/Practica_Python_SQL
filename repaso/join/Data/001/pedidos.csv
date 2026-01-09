@@ -1,0 +1,6 @@
+pedido_id,cliente_id,producto,precio
+101,1,Espresso,3
+102,2,Latte,4.5
+103,1,Muffin,2.5
+104,99,Capuccino,5
+105,3,Té Verde,3
