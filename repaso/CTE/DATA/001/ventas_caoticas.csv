@@ -1,0 +1,10 @@
+id_transaccion,fecha_venta,producto,categoria,monto_total
+101,2023-10-01, Espresso,Bebida,3.5
+102,01/10/2023,ESPRESSO,bebida,3.5
+102,01/10/2023,ESPRESSO,bebida,3.5
+103,2023-10-02,Latte ,BEBIDA,4500
+104,2023-10-02,Muffin ,,2.5
+105,2023-10-03, Galleta,Comidat,2
+106,2023-10-03,galleta,Comida,2
+107,2023-10-04,Espresso,Bebida,-10
+108,2023.10.05,Latte,Bebida,4.5

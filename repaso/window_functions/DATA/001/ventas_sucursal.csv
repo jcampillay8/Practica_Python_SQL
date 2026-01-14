@@ -1,0 +1,8 @@
+venta_id,sucursal,vendedor,monto,fecha
+1,Norte,Ana,500.00,2023-10-01
+2,Norte,Bernardo,300.00,2023-10-01
+3,Sur,Claudia,800.00,2023-10-02
+4,Norte,Ana,200.00,2023-10-02
+5,Sur,Diego,450.00,2023-10-03
+6,Sur,Claudia,100.00,2023-10-03
+7,Norte,Bernardo,900.00,2023-10-04

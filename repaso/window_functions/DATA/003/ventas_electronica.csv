@@ -1,0 +1,11 @@
+id_venta,fecha,producto,categoria,precio,vendedor_id
+1,2023-11-01,iPhone 15,Celulares,1200.00,10
+2,2023-11-01,Samsung S23,Celulares,900.00,11
+3,2023-11-02,MacBook Air,Laptops,1100.00,10
+4,2023-11-02,Dell XPS,Laptops,1300.00,12
+5,2023-11-03,iPhone 15,Celulares,1200.00,11
+6,2023-11-03,iPad Pro,Tablets,800.00,10
+7,2023-11-04,Samsung S23,Celulares,900.00,12
+8,2023-11-04,MacBook Pro,Laptops,2500.00,10
+9,2023-11-05,Lenovo Yoga,Laptops,950.00,11
+10,2023-11-05,iPad Air,Tablets,600.00,12

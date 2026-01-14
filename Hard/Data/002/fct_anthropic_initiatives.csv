@@ -1,0 +1,13 @@
+program_id,community_id,event_date,participants,program_name
+1,101,2024-01-03,50,iPad Learning Workshop
+1,102,2024-01-15,80,iPad Learning Workshop
+2,103,2024-01-18,65,Mac Coding Camp
+2,101,2024-01-22,40,Mac Coding Camp
+3,102,2024-02-05,90,Apple Community Health
+3,103,2024-02-15,70,Apple Community Health
+4,104,2024-02-10,55,Tech For Kids
+4,104,2024-02-20,100,Tech For Kids
+5,101,2024-03-02,120,Green Initiative
+5,105,2024-03-05,95,Green Initiative
+6,102,2024-03-06,60,Digital Safety Seminar
+6,103,2024-03-07,80,Digital Safety Seminar

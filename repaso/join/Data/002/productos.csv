@@ -1,5 +1,5 @@
-producto_id,nombre_producto,categoria
-10,Espresso,Bebida
-20,Latte,Bebida
-30,Muffin,Comida
-40,Galleta,Comida
+producto_id,nombre_producto,categoria,precio
+10,Espresso,Bebida,3.5
+20,Latte,Bebida,4.5
+30,Muffin,Comida,2.5
+40,Galleta,Comida,2
