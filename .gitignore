@@ -1,4 +1,12 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
-repaso/Data/*.zip
+
+# Ignorar archivos de datos pesados en cualquier lugar
+*.csv
+*.zip
+*.json
+
+# Si quieres ser específico con la carpeta de Looker:
+# Esto permite subir los archivos .lookml pero ignora los datos crudos
+Looker/
