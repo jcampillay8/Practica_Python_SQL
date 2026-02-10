@@ -389,3 +389,18 @@ Si alguien completa este roadmap, puede decir sin miedo:
 
 > *“Sé SQL de verdad.”*
 
+- Te comunicas de forma clara capaz de llegar a mucha gente
+- Tiendo a trabajar bien en equipo
+- Tiendo a permanecer calmadao bajo presión
+- Que soy capaz de entregar lo que se me pide con altos estandares de trabajo
+- Que tiendo a estar abierto a nueva información y encontrar formas de utilizarlo
+- Que tiendo a ailar areas de problemas y usar tecnicas efectivas para resolverlas
+- Que soy rápido en cambiar de tareas
+- Que facilmente proceso y manipulo información númerica
+- Que soy capaz de resolver problemas a través de la mayoría de las situaciones
+- Que tengo la capacidad de leer y procesar información compleja en mi mente
+
+Comunicación
+Colaboración
+Temple
+Calidad
